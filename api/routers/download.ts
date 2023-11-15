@@ -1,5 +1,4 @@
 import { Router } from "express";
-import multer from "multer";
 import * as AWS from "aws-sdk";
 
 export const downloadRouter = Router();
